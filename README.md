@@ -1,6 +1,6 @@
 # Frequency measurement
 
-Simple and efficient solution to measure frequency of a digital signal using **input capture** in oe port of a [Nucleo Board (STMf446RE)](https://www.st.com/en/evaluation-tools/nucleo-f446re.html).
+Simple and efficient solution to measure frequency of a digital signal using **input capture** in oe port of a [Nucleo Board (STMF446RE)](https://www.st.com/en/evaluation-tools/nucleo-f446re.html).
 This project was developed using [STM32Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html). This project can be testes using the complementary part of the [two-minipulses-generator](https://github.com/uma-dev/2-minipulses-generator) repo. 
 
 
